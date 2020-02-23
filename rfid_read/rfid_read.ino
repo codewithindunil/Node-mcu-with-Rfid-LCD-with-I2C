@@ -65,7 +65,7 @@ void loop() {
 
 if(UIDresultSend=="C6033AF9"){
   
-   lcd.print("Hello moda kekari");
+   lcd.print("Hello ");
   }
 
   else{
